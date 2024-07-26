@@ -1,0 +1,21 @@
+.oddNumbers{
+  background-color: rgb(255,182,193);
+  font-family:Verdana,DejaVu Sans,sans-serif
+
+}
+.oddNumbers.coolers{
+  font-size:24px;
+
+}
+
+#two{
+    font-size:36px;
+    color: rgb(0,0,255);
+
+
+}
+
+#four{
+  background-color: rgb(144,238,144);
+  font-weight:bold;
+}
